@@ -1,4 +1,4 @@
-CLASSIFICADOR = './app/logic/data/DecisionTree.pickle'
+CLASSIFICADOR = './app/logic/data/MLP1CamadasOcultas_rs.pickle'
 
 LABELENCONDER_type_school = './app/logic/data/type_school_encoded.pkl'
 
